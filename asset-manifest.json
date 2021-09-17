@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cgp-transcription-analysis/static/css/main.ce1a7abb.chunk.css",
+    "main.css": "/cgp-transcription-analysis/static/css/main.c3ed4e3f.chunk.css",
     "main.js": "/cgp-transcription-analysis/static/js/main.d73eb132.chunk.js",
     "main.js.map": "/cgp-transcription-analysis/static/js/main.d73eb132.chunk.js.map",
     "runtime-main.js": "/cgp-transcription-analysis/static/js/runtime-main.3adf2111.js",
@@ -12,14 +12,14 @@
     "static/js/3.7f7030dd.chunk.js.map": "/cgp-transcription-analysis/static/js/3.7f7030dd.chunk.js.map",
     "index.html": "/cgp-transcription-analysis/index.html",
     "static/css/2.150d169a.chunk.css.map": "/cgp-transcription-analysis/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.ce1a7abb.chunk.css.map": "/cgp-transcription-analysis/static/css/main.ce1a7abb.chunk.css.map",
+    "static/css/main.c3ed4e3f.chunk.css.map": "/cgp-transcription-analysis/static/css/main.c3ed4e3f.chunk.css.map",
     "static/js/2.d8352c04.chunk.js.LICENSE.txt": "/cgp-transcription-analysis/static/js/2.d8352c04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3adf2111.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.d8352c04.chunk.js",
-    "static/css/main.ce1a7abb.chunk.css",
+    "static/css/main.c3ed4e3f.chunk.css",
     "static/js/main.d73eb132.chunk.js"
   ]
 }
